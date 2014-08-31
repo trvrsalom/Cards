@@ -1,6 +1,6 @@
-# Trevor Salom
+# Cards
 
-A portfolio site for Trevor Salom.
+An HTML5 Template
 
 Built on the Unsemantic Grid. Read below for more info.
 
